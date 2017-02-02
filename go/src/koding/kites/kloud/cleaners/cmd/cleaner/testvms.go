@@ -43,6 +43,6 @@ func (t *TestVMS) Result() string {
 func (t *TestVMS) Info() *taskInfo {
 	return &taskInfo{
 		Title: "TestVMS",
-		Desc:  "Terminate instances older than 24 hours andd tagged with [sandbox, dev]",
+		Desc:  "Terminate instances older than 24 hours and tagged with [sandbox, dev]",
 	}
 }

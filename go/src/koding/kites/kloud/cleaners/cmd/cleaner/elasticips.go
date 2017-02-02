@@ -12,9 +12,9 @@ type ElasticIPs struct {
 }
 
 func (e *ElasticIPs) Process() {
-	addressess := e.Lookup.FetchIpAddresses()
+	addresses := e.Lookup.FetchIpAddresses()
 
-	e.nonused = addressess.NotAssociated()
+	e.nonused = addresses.NotAssociated()
 }
 
 func (e *ElasticIPs) Run() {
@@ -41,9 +41,9 @@ type DowngradedElasticIPs struct {
 }
 
 func (e *DowngradedElasticIPs) Process() {
-	addressess := e.Lookup.FetchIpAddresses()
+	addresses := e.Lookup.FetchIpAddresses()
 
-	e.nonpaid = addressess.NotPaid(e.Options)
+	e.nonpaid = addresses.NotPaid(e.Options)
 }
 
 func (e *DowngradedElasticIPs) Run() {

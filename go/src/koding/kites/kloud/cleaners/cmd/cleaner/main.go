@@ -70,7 +70,7 @@ type task interface {
 	// Results returns the result from the generated data and executed action.
 	Result() string
 
-	// Info returns information about the task itself and the taks responsibilites.
+	// Info returns information about the task itself and the taks responsibilities.
 	Info() *taskInfo
 }
 
@@ -238,10 +238,6 @@ func (c *Cleaner) collectAndProcess() error {
 			Instances: artifacts.Instances,
 			Cleaner:   c,
 		},
-		//&GhostVMs{
-		//	Instances: artifacts.Instances,
-		//	Ids:       artifacts.MongodbUsers,
-		//},
 		&MultipleVMs{
 			Instances:     artifacts.Instances,
 			UsersMultiple: artifacts.UsersMultiple,
