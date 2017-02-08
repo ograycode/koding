@@ -1515,6 +1515,7 @@ module.exports = class JGroup extends Module
     success  : (client, password, callback) ->
 
       account = client?.connection?.delegate
+      { sessionToken } = client
 
       @checkUserPassword account, password, (err) =>
 
@@ -1558,6 +1559,13 @@ module.exports = class JGroup extends Module
           (next) =>
             ComputeProvider = require '../computeproviders/computeprovider'
             ComputeProvider.destroyGroupResources this, -> next()
+
+          (next) ->
+            url = '/api/social/payment/subscription/delete'
+            { deleteReq } = require '../socialapi/requests'
+
+            deleteReq url, { sessionToken }, (err, body) ->
+              next err
 
           (next) =>
             JSession = require '../session'
