@@ -1670,7 +1670,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -1700,7 +1700,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -1730,7 +1730,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -1760,7 +1760,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -1790,7 +1790,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -1820,7 +1820,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -1850,7 +1850,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -1880,7 +1880,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3028,7 +3028,7 @@
         "description": "Method JApiToken.create",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3092,7 +3092,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3122,7 +3122,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3152,7 +3152,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3228,7 +3228,7 @@
         "description": "pings to requested provider implementation",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3333,7 +3333,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3363,7 +3363,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3393,7 +3393,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3423,7 +3423,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3449,7 +3449,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3475,7 +3475,7 @@
         "description": "Method ComputeProvider.createGroupStack",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3505,7 +3505,7 @@
         "description": "Method ComputeProvider.updateTeamCounters",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3531,7 +3531,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3561,7 +3561,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3591,7 +3591,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3621,7 +3621,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3889,7 +3889,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3919,7 +3919,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3949,7 +3949,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -3979,7 +3979,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4009,7 +4009,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4039,7 +4039,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4069,7 +4069,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4099,7 +4099,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4129,7 +4129,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4159,7 +4159,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4189,7 +4189,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4219,7 +4219,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4249,7 +4249,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4279,7 +4279,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4309,7 +4309,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4339,7 +4339,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4369,7 +4369,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4399,7 +4399,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4429,7 +4429,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4731,7 +4731,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4761,7 +4761,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4791,7 +4791,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4923,7 +4923,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -4953,7 +4953,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5136,7 +5136,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5166,7 +5166,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5468,7 +5468,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5498,7 +5498,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5596,7 +5596,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5626,7 +5626,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5656,7 +5656,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5682,7 +5682,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5712,7 +5712,7 @@
         "description": "Method JProposedDomain.createDomain",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5912,7 +5912,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5942,7 +5942,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -5972,7 +5972,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6002,7 +6002,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6032,7 +6032,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6062,7 +6062,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6092,7 +6092,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6122,7 +6122,7 @@
         "description": "Method JGroup.create",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6152,7 +6152,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6182,7 +6182,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6212,7 +6212,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6242,7 +6242,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6272,7 +6272,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -6302,7 +6302,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7564,7 +7564,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7594,7 +7594,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7624,7 +7624,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7654,7 +7654,7 @@
         "description": "byCode fetches an invitation by its code",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7684,7 +7684,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7714,7 +7714,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7812,7 +7812,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7838,7 +7838,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7868,7 +7868,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7898,7 +7898,7 @@
         "description": "Method JPasswordRecovery.validate",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7928,7 +7928,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7958,7 +7958,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -7988,7 +7988,7 @@
         "description": "Method JPasswordRecovery.resetPassword",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8018,7 +8018,7 @@
         "description": "Method JPasswordRecovery.fetchRegistrationDetails",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8048,7 +8048,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8078,7 +8078,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8176,7 +8176,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8206,7 +8206,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8236,7 +8236,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8266,7 +8266,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8296,7 +8296,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8326,7 +8326,7 @@
         "description": "Method JReward.fetchEarnedAmount",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8356,7 +8356,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8386,7 +8386,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8416,7 +8416,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8446,7 +8446,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8476,7 +8476,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8506,7 +8506,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8600,7 +8600,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8626,7 +8626,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8690,7 +8690,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8720,7 +8720,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8746,7 +8746,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8776,7 +8776,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8806,7 +8806,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8836,7 +8836,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8866,7 +8866,7 @@
         "description": "Method SocialChannel.fetchActivityCount",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8896,7 +8896,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8926,7 +8926,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8956,7 +8956,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -8986,7 +8986,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9016,7 +9016,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9046,7 +9046,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9076,7 +9076,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9106,7 +9106,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9136,7 +9136,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9166,7 +9166,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9196,7 +9196,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9226,7 +9226,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9256,7 +9256,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9286,7 +9286,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9316,7 +9316,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9346,7 +9346,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9376,7 +9376,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9406,7 +9406,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9436,7 +9436,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9466,7 +9466,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9496,7 +9496,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9526,7 +9526,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9556,7 +9556,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9586,7 +9586,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9616,7 +9616,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9646,7 +9646,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9676,7 +9676,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9706,7 +9706,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9736,7 +9736,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9766,7 +9766,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9796,7 +9796,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9826,7 +9826,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9856,7 +9856,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9886,7 +9886,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9916,7 +9916,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9946,7 +9946,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -9976,7 +9976,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10006,7 +10006,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10036,7 +10036,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10066,7 +10066,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10096,7 +10096,7 @@
         "description": "Method SocialMessage.fetchDataFromEmbedly",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10126,7 +10126,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10156,7 +10156,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10186,7 +10186,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10246,7 +10246,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10276,7 +10276,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10544,7 +10544,7 @@
         "description": "Method JTeamInvitation.create",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10574,7 +10574,7 @@
         "description": "Method JTeamInvitation.byCode",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10604,7 +10604,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10668,7 +10668,7 @@
         "description": "Method Tracker.track",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10698,7 +10698,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10728,7 +10728,7 @@
         "description": "Method JUrlAlias.resolve",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10758,7 +10758,7 @@
         "description": "Method JUser.login",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10784,7 +10784,7 @@
         "description": "whoami\n\nReturns your JAccount instance based on the session data",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10810,7 +10810,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10840,7 +10840,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10866,7 +10866,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10896,7 +10896,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10922,7 +10922,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10952,7 +10952,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -10982,7 +10982,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11012,7 +11012,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11042,7 +11042,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11072,7 +11072,7 @@
         "description": "Method JUser.emailAvailable",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11102,7 +11102,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11132,7 +11132,7 @@
         "description": "Method JUser.usernameAvailable",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11162,7 +11162,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11192,7 +11192,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11222,7 +11222,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11252,7 +11252,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11282,7 +11282,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11308,7 +11308,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
@@ -11338,7 +11338,7 @@
         "description": "",
         "responses": {
           "200": {
-            "description": "Request processed succesfully",
+            "description": "Request processed successfully",
             "schema": {
               "$ref": "#/definitions/DefaultResponse"
             }
